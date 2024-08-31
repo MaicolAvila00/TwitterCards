@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    background-color: rgb(59, 150, 150);
+    font-family: system-ui;
+    place-content: center;
+    display: grid;
+    min-height: 600px;
+    }
+    .Profiles{
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
